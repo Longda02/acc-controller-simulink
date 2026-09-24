@@ -1,0 +1,9 @@
+slprj/
+*.autosave
+*.asv
+*.bak
+*.original
+*.r20*
+*.mexw32
+*.mexw64
+
