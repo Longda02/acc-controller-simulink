@@ -1,6 +1,6 @@
 # ACC Controller (MATLAB/Simulink)
 
-本仓库整理自 `F:\徐鹏飞整理材料\ACC控制器代码`，保存 ACC 控制器的 MATLAB、Simulink、模糊控制器和必要工况数据。
+本仓库保存 ACC 控制器的 MATLAB、Simulink、模糊控制器和必要工况数据。
 
 ## 纳入内容
 
